@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mdcXthyWpEJ6U84JsCJU0b3GS9HCxJ2drnKcY4nXI9tCD0zOITDbimNAtheOdr78slOLisClCiHxDVvMWUyXhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\interview_code_test\\interview_code_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
